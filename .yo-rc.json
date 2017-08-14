@@ -1,0 +1,10 @@
+{
+  "generator-web": {
+    "appName": "workspace",
+    "includeModernizr": false,
+    "includeUnderscore": true,
+    "includeFontAwesome": true,
+    "includeRespond": true,
+    "includeHtml5shiv": true
+  }
+}

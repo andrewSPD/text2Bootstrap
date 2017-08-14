@@ -1,0 +1,16 @@
+{
+  "name": "test2Bootstrap",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "~1",
+    "bootstrap-sass-official": "~3",
+    "underscore": "~1",
+    "font-awesome": "~4",
+    "respond": "~1",
+    "html5shiv": "~3.7",
+    "showdown": "^1.7.2"
+  },
+  "devDependencies": {
+    "viscompass": "compass#^0.7.1"
+  }
+}
